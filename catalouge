@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>catalouge</title>
+    </head>
+    <body>
+        <table border="1" width="100% height="50% style="background-color:
+        rgb(254, 127, 188)" >
+        <tr>
+            <td>
+                <img style="height:200px;width:200px;"src="http://ecx.images-amazon.com/images/I/41eY6sG4pyL._SL500_AA300_.jpg">
+            </td>
+            <td>
+                <p>Book:Web Technologies</p>
+                <p>Author:Uttam K Roy</p>
+                <p>Publication:Oxford University Press</p>
+            </td>
+            <td>
+                531
+            </td>
+            <td>
+                <button>Add to cart</button>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img style="height:200px;width:200px;"src="https://1.bp.blogspot.com/-NNnSvMEB0Vg/VVRkrHA28dI/AAAAAAAAAUQ/5asIo1xAeQc/s1600/php-and-mysql-web-development.jpg">
+            </td>
+            <td>
+                <p>Book:PHP&MySQL Web Development</p>
+                <p>Author:Luke Welling & Laura Thompson</p>
+                <p>Publication:PEARSON</p>
+            </td>
+            <td>
+                898
+            </td>
+            <td>
+                <button>Add to cart</button>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img style="height:200px;width:200px;" src="https://rukminim1.flixcart.com/image/832/832/k0e66q80/book/4/1/1/digital-circuits-and-design-original-imafk6wbgyghayc8.jpeg?q=70">
+            </td>
+            <td>
+               <p>Book:Digital Circuits</p> 
+               <p>Author:S Salivahanan and S Arivazhagan</p>
+               <p>Publication:Oxford University Press</p>
+            </td>
+            <td>
+                765
+            </td>
+            <td>
+            <button>Add to cart</button>
+        </td>
+        </tr>
+        <tr>
+            <td>
+                <img style="height:200px;width:200px;" src="https://content.kopykitab.com/ebooks/2016/06/7601/content/medium/page1.png">
+            </td>
+            <td>
+               <p>Book:Signals and Systems</p> 
+               <p>Author:A.Anand Kumar</p>
+               <p>Publication:Pearson</p>
+            </td>
+            <td>
+                800
+            </td>
+            <td>
+            <button>Add to cart</button>
+        </td>
+        </tr>
+        <tr>
+            <td>
+                <img style="height:200px;width:200px;" src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1619439457i/57860225.jpg">
+            </td>
+            <td>
+               <p>Book:Introduction to Electronic Engineering</p> 
+               <p>Author:VALERY VODOVOZOV</p>
+               <p>Publication:Pearson</p>
+            </td>
+            <td>
+                820
+            </td>
+            <td>
+            <button>Add to cart</button>
+        </td>
+        </tr>
+        <tr>
+            <td>
+                <img style="height:200px;width:200px;" src="https://imgv2-1-f.scribdassets.com/img/word_document/351965558/original/16765d9032/1606503847?v=1">
+            </td>
+            <td>
+               <p>Book:Electrical Power</p> 
+               <p>Author:P.S.R Murthy</p>
+               <p>Publication:Oxford University</p>
+            </td>
+            <td>
+                700
+            </td>
+            <td>
+            <button>Add to cart</button>
+        </td>
+        </tr>
+        <tr>
+            <td>
+                <img style="height:200px;width:200px;" src="https://content.kopykitab.com/ebooks/2017/08/11619/content/medium/page1.png">
+            </td>
+            <td>
+               <p>Book:Theory of Machines</p> 
+               <p>Author:THOMAS BEVAN</p>
+               <p>Publication:University of Michigan</p>
+            </td>
+            <td>
+                786
+            </td>
+            <td>
+            <button>Add to cart</button>
+        </td>
+        </tr>
+        <tr>
+            <td>
+                <img style="height:200px;width:200px;" src="https://i.pinimg.com/originals/ed/66/b9/ed66b997102c35c915d59bdd499de22e.jpg">
+            </td>
+            <td>
+               <p>Book:Automation and Robotics</p> 
+               <p>Author:JOHN CRAIG</p>
+               <p>Publication:Pearson</p>
+            </td>
+            <td>
+                900
+            </td>
+            <td>
+            <button>Add to cart</button>
+        </td>
+        </tr>
+    </body>
+</html>

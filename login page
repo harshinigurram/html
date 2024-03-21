@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Login page</title>
+        <style>
+            h3{
+                font-family:cursive;
+            }
+        </style>
+    </head>
+
+    <body>
+        
+        <center><img src="https://www.ucost.in/images/pic/login/login.jpg " width="200px";height=200px></center><br>
+        <center><h1 style="font-style:italic; color: rgb(86, 16, 86);font-size:
+            24px;font-family:cursive;">Enter Login Details:</h1>
+        <forms>
+        <label for="Login id:">Login ID:</label>
+        <input type="text"><br><br>
+        <label for="password:">Password:</label>
+        <input type="password" id="password" name="password"><br><br>
+        </forms>
+        <button style="border:2px;">Submit</button>
+        <button style=border:2px;>Reset</button></center>
+    
+    </forms>
+    
+</body>
+ 
+</html>

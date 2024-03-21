@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+    body form{
+        background-color:purple;
+          margin-left:500px;
+          margin-right:500px;
+          margin-top: 100px;
+          width:900px;
+          height:250px;
+          }
+          </style>
+</head>
+<body>
+    <form>
+    <h1 style="font-style: bold;color:blue;">Electrical and Electronics Engineering</h1>
+    <center><label for="Text Books">Text Books</label>
+        <select id="Text Books">
+            <option value="concepts in electric circuits">Concepts in Electric Circuits</option>
+            <option value="Introduction to Electronic Engineering">Introduction to Electronic Engineering</option>
+            <option value="Electrical power">Electrical Power</option>
+          </select><br>
+          <label for="quantity">Quantity</label>
+          <input type="text"></center>
+          <center><button>ok</button></center>
+          <center><p><b>Cost of one book is"500" + shipping "100"</b></p></center>
+          </form>
+</body>
+</html>

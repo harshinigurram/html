@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<head>
+<title>Home page</title>
+</head>
+<body>
+<div style="height: 10vh; width: 100vw; background-color: rgb(83, 223,
+83);padding: 10px; text-align: center;font-size: large;font-style: bold;">
+<div class = "column">
+<a href="home page.html"target="_parent">HOME
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a style= "text-align:left center; " href="login page.html"
+target="_blank"> LOGIN
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="pract register.html"
+target="_blank">REGISTER</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;
+<a href="catalouge.html"
+target="_blank">CATALOGUE</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+</div>
+<div style="background-color: orange;">
+    <div style="text-align: center;">
+    <img src="https://www.timnadapuram.in/images/courses-tim.jpg"
+    width="220px" height="110px">
+    <p style="font-style: italic;font-size: 18px; color:
+    blue;">Welcome to the Online Book Store</p><br/>
+    <p style="font-style: italic;font-size: 24px; color: red;">A Huge
+    Collection of Engineering E-books</p>
+    <div style="background-color: burlywood;font-size: large;height:
+    20vh;width: 10vw;padding: 10px;" >
+    <a href="CSE.html" target="_blank">CSE</a><br/><br/>
+    <a href="ECE.html" target="_blank">ECE</a><br/><br/>
+    <a href="EEE.html" target="_blank">EEE</a><br/><br/>
+    <a href="mech.html" target="_blank">MECH</a><br/><br/>
+    </div>
+    </div>
+</div>
+</body>

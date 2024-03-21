@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>cse catalog</title>
+   <style>
+        body form{
+            background-color:skyblue;
+        margin-left:500px;
+        margin-right:500px;
+        margin-top: 100px;
+        width:900px;
+        height:250px;
+        }
+   </style>
+</head>
+<body>
+    <form>
+    <h1 style="text-align:center;color:blue;">Computer Science and Engineering</h1>
+    <center><label for="Text Books">Text Books</label>
+        <select id="Text Books">
+            <option value="web technologies">Web Technologies</option>
+            <option value="database management">PHP and JavaScript</option>
+          </select><br>
+          <label for="quantity">Quantity</label>
+          <input type="text"></center>
+          <center><button>ok</button></center>
+          <center><p><b>Cost of one book is"500" + shipping "100"</b></p>
+</form>
+</body>
+</html>
